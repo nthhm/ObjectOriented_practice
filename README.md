@@ -1,2 +1,3 @@
-ObjectOriented_practice
-オブジェクト指向練習用アプリ.Processingにて作成.
+ObjectOriented_practice  
+オブジェクト指向練習用アプリ.  
+Processingにて作成.
